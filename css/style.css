@@ -1,0 +1,19 @@
+
+h2{
+    width: 50%;
+    margin: auto ;
+    background: var(--bs-teal) ;
+    color:var(--bs-gray-dark) ;
+
+}
+h3{
+     color: var(--bs-warning-text-emphasis);
+}
+p{
+    color: #e685b5
+}
+.container  {
+margin-top: 50px;
+
+
+}
